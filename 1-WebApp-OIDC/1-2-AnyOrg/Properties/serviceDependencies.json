@@ -3,9 +3,13 @@
     "secrets1": {
       "type": "secrets"
     },
+    "appInsights1": {
+      "type": "appInsights",
+      "connectionId": null
+    },
     "identityapp1": {
       "type": "identityapp",
-      "dynamicId": null
+      "connectionId": null
     }
   }
 }
